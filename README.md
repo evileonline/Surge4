@@ -18,6 +18,8 @@
 
 @NobyDa
 
+@maicoo-l
+
 原文: https://github.com/maicoo-l/Surge
 
 原文：https://github.com/lhie1/Rules/tree/master
