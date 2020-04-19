@@ -1,6 +1,6 @@
 # Surge4
 
-感谢
+#感谢
 
 @lhie1
 
@@ -22,8 +22,8 @@
 
 原文：https://github.com/lhie1/Rules/tree/master
 
-License
+#License
 
-.可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
+可以拷贝、转发，但是必须提供原作者信息，同时也不能将本项目用于商业用途。
 
 
